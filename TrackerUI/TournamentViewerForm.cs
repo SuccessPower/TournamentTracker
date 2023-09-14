@@ -31,5 +31,10 @@ namespace TrackerUI
         {
 
         }
+
+        private void teamTwoScoreText_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
